@@ -18,7 +18,8 @@ Este análisis se realizó utilizando datos de **Kaggle**. Agradecemos a la comu
 
 ## 📂 Estructura del Proyecto
 
-📂 Telco-Churn-Prediction/
+```bash
+Telco-Churn-Prediction/
 │── 📄 README.md
 │── 📄 telco_churn_analisis.ipynb
 │── 📄 modelo_random_forest.pkl
