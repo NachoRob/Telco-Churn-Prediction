@@ -1,0 +1,8 @@
+# Ignorar archivos innecesarios
+models/
+*.pkl
+*.csv
+*.xlsx
+*.log
+__pycache__/
+.env
